@@ -3,7 +3,7 @@
 
 **Legal Case Management System** is a scalable, responsive **React.js frontend application** designed to help law firms and corporate legal departments manage legal cases, court dates, assigned lawyers, and case statuses efficiently.
 
-This project demonstrates **frontend engineering best practices**, **state management with Redux Toolkit**, **CRUD operations**, and **modern React architecture**.
+This project demonstrates **frontend engineering**, **state management with Redux Toolkit**, **CRUD operations**, and **modern React architecture**.
 
 
 ##  Project Summary
@@ -67,22 +67,13 @@ This project demonstrates **frontend engineering best practices**, **state manag
 | Data Handling | Fetch API / Axios |
 
 ---
+Screenshots
+<img width="1872" height="898" alt="image" src="https://github.com/user-attachments/assets/46f0e9ff-f810-481f-9ab2-1266e1bf1ed2" />
+<img width="1660" height="776" alt="image" src="https://github.com/user-attachments/assets/6ffae660-dcd9-4205-804f-ac7986fe985d" />
+<img width="1601" height="691" alt="image" src="https://github.com/user-attachments/assets/cda3804a-9cd3-47cd-8275-f87e861b58ea" />
+<img width="1729" height="776" alt="image" src="https://github.com/user-attachments/assets/ea0986e3-e173-4661-8adb-aab331d4274e" />
+<img width="996" height="487" alt="image" src="https://github.com/user-attachments/assets/d3690a29-68a9-4487-bf93-889e90f913c9" />
 
-##  Project Structure
-src/
-├── components/
-│ ├── CaseList.jsx
-│ ├── CaseForm.jsx
-│ ├── CaseDetails.jsx
-│ ├── Navbar.jsx
-│ ├── LoginPage.jsx
-│ ├── ThemeToggle.jsx
-│ ├── redux/
-│ │ ├── store.js
-│ │ ├── caseSlice.js
-│ │ ├── authSlice.js
-├── App.js
-├── index.js
 
 
 
