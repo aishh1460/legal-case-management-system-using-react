@@ -1,4 +1,4 @@
-# legal-case-management-system-using-react
+
 # Legal Case Management System (React + Redux)
 
 **Legal Case Management System** is a scalable, responsive **React.js frontend application** designed to help law firms and corporate legal departments manage legal cases, court dates, assigned lawyers, and case statuses efficiently.
