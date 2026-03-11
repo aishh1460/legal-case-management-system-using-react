@@ -5,6 +5,8 @@
 
 This project demonstrates **frontend engineering**, **state management with Redux Toolkit**, **CRUD operations**, and **modern React architecture**.
 
+## Deployment:
+https://legal-case-management-system-using.vercel.app/add
 
 ##  Project Summary
 - Built a **single-page application (SPA)** using React functional components
