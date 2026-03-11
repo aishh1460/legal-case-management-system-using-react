@@ -1,14 +1,15 @@
 :root{
-  --bg: #ffffff;
-  --text: #111;
-  --card: #f7f7f7;
-  --accent: #2b6cb0;
-}
-[data-theme="dark"]{
   --bg: #111217;
   --text: #e6eef6;
   --card: #0f1720;
   --accent: #4fd1c5;
+}
+
+[data-theme="light"]{
+  --bg: #ffffff;
+  --text: #111;
+  --card: #f7f7f7;
+  --accent: #2b6cb0;
 }
 *{box-sizing:border-box}
 body,html,#root{height:100%;margin:0;font-family:Inter, Arial, sans-serif;background:var(--bg);color:var(--text)}
